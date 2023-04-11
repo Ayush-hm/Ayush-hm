@@ -2,10 +2,8 @@
 
 
 # Socials:
-<a href="https://www.linkedin.com/in/ayush-h-mishra/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
-
-<a href="https://twitter.com/AyushHrishikesh">[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)</a>
-
+<a href="https://www.linkedin.com/in/ayush-h-mishra/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a> &nbsp;
+<a href="https://twitter.com/AyushHrishikesh">[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)</a> &nbsp;
 <a href="https://www.instagram.com/h_ayushm/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
 
 #  Tech Stack:
