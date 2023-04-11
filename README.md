@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I am Ayush </h1>
 
 
-## Socials:
+# Socials:
 <a href="https://www.linkedin.com/in/ayush-h-mishra/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 <a href="https://twitter.com/AyushHrishikesh">[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)</a>
 <a href="https://www.instagram.com/h_ayushm/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
@@ -21,12 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayush-hm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayush-hm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
