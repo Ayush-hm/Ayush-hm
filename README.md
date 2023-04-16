@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I am Ayush </h1>
-
+<h2><b align="center"> Developer</b></h2>
 
 # Socials:
 <a href="https://www.linkedin.com/in/ayush-h-mishra/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a> &nbsp;
