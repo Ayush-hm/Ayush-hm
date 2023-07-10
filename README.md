@@ -14,7 +14,7 @@
 </p>
 
 ## GitHub Stats: 
-<div align-items="center">
+<div style: align-items="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Ayush-hm&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-hm&theme=midnight-purple&hide_border=true)<br/>
