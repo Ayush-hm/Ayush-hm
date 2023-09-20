@@ -13,8 +13,8 @@
 <div style: align="center">
   
 ![](https://github-readme-stats-ruby-one.vercel.app/api/cards/repos-per-language?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
+![](https://github-readme-stats-ruby-one.vercel.app/api/cards/stats?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
+![](https://github-readme-stats-ruby-one.vercel.app/api/cards/profile-details?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
 
   
 </div>
