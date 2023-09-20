@@ -4,7 +4,7 @@
 ## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,nodejs,express,react,bootstrap,tailwind,figma,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,nodejs,express,react,bootstrap,tailwind,figma,tensorflow" />
   </a>
 </p>
 
