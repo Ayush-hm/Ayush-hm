@@ -12,16 +12,16 @@
 ## GitHub Stats: 
 <div style: align="center">
   
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-hm&show_icons=true&theme=transparent&hide_border=true) <br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-hm&layout=compact&theme=transparent&hide_border=true)](https://github.com/Ayush-hm/github-readme-stats)<br/>
-![](https://github-readme-stats-ruby-one.vercel.app/api/cards/profile-details?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
+![Ayush-hm's Stats](https://github-readme-stats.vercel.app/api?username=Ayush-hm&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) <br/>
+![Ayush-hm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-hm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)<br/>
+![Ayush-hm's Trophies](https://github-profile-trophy.vercel.app/?username=Ayush-hm&row=1&theme=darkhub&no-frame=true)
 
   
 </div>
 
 <div align="center">
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&no-frame=true)
 </div>
 
 ---
