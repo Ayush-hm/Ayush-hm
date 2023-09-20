@@ -12,7 +12,7 @@
 ## GitHub Stats: 
 <div style: align="center">
   
-![](https://github-readme-stats-ruby-one.vercel.app/api/cards/repos-per-language?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-hm&show_icons=true&theme=transparent) <br/>
 ![](https://github-readme-stats-ruby-one.vercel.app/api/cards/stats?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
 ![](https://github-readme-stats-ruby-one.vercel.app/api/cards/profile-details?username=Ayush-hm&theme=midnight_purple&cache_seconds=21600)<br/>
 
