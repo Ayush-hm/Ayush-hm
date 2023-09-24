@@ -1,5 +1,4 @@
-<h1 align="center"> Hi, I am Ayush </h1>
-<h2 align="center"> Developer </h2>
+<img src="Github Banner.png"/>
 
 ## Tech Stack:
 <p align="center">
