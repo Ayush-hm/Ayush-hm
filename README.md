@@ -3,7 +3,7 @@
 ## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,r,html,css,nodejs,express,react,nextjs,postman,tailwind,figma,tensorflow,bitbucket,mysql,mongodb,opencv,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,r,html,css,nodejs,express,react,nextjs,postman,tailwind,figma,tensorflow,bitbucket,mysql,mongodb,opencv,vscode,git&perline=10" />
   </a>
 </p>
 
