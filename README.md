@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,r,html,css,nodejs,express,react,nextjs,postman,tailwind,figma,tensorflow,bitbucket,mysql,mongodb,opencv,vscode,git&perline=10" />
+    ![image](https://github.com/user-attachments/assets/ea84962d-f3e2-4831-8b1a-4b39d8c49698)
+
   </a>
 </p>
 
