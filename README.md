@@ -1,4 +1,4 @@
-<img src="Github Banner.png"/>
+<img src="Banner.png"/>
 
 ## Tech Stack:
 <p align="center">
