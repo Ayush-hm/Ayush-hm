@@ -12,9 +12,7 @@
 <div style: align="center">
 
 ![Ayush-hm's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-hm&theme=midnight_purple) <br/>
-![Ayush-hm's Stats](https://github-readme-stats.vercel.app/api?username=Ayush-hm&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) <br/>
-![Ayush-hm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-hm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)<br/>
-![Ayush-hm's Trophies](https://github-profile-trophy.vercel.app/?username=Ayush-hm&row=1&theme=darkhub&no-frame=true)
+
 
   
 </div>
